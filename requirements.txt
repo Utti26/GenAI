@@ -7,3 +7,6 @@ opencv-python==4.8.0.74
 pandas==1.5.3
 numpy==1.23.5
 googletrans==4.0.0-rc1
+setuptools>=65.6.3
+wheel
+
