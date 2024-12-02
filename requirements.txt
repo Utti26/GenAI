@@ -9,4 +9,4 @@ numpy
 googletrans==4.0.0-rc1
 setuptools>=65.6.3
 wheel
-
+libgl1-mesa-glx
