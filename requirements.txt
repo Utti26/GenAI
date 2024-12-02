@@ -3,7 +3,7 @@ diffusers
 transformers
 Pillow
 matplotlib
-opencv-python==4.5.1.48
+opencv-python
 pandas
 numpy
 googletrans==4.0.0-rc1
