@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1qbA6-8agH9VPq9g9hZoemgjVBgpGFAxm
 """
 
-!pip install --upgrade diffusers transformers -q
-
 from pathlib import Path
 import tqdm
 import torch
